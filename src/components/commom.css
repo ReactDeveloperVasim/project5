@@ -1,0 +1,39 @@
+.main{
+
+    background-color: greenyellow;
+    padding: 10px;
+}
+.sub{
+    background-color: darkviolet;
+    color: white;
+    border: 5px solid brown;
+    border-radius: 20px;
+    margin: 20px;
+    text-align: center;
+    padding: 20px;
+}
+
+table{
+    width: 100%;
+    background-color: gray;
+    border: 3px solid black;
+}
+td{
+    border: 3px solid rgb(202, 167, 234);
+}
+b{
+    background-color: white;
+    color: black;
+    font-size: 17px;
+}
+input{
+     padding: 10px;
+     margin: 5px;
+     width: 15%;
+     font-weight: bold;
+     margin-left: 23px;
+    }
+    button{
+     padding: 10px;
+     font-weight: bold;
+    }
